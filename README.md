@@ -1,7 +1,6 @@
  This repository contains a bot for the game sexgangsters, located at
 http://sexgangsters.com. I wrote this bot just for my own
-fun and I submit as is. Anyone who decides to use it
-use it at your own risk.
+fun and I submited it as it is. Anyone who decides to use it, do it at his own risk.
 
  The bot was developed as a firefox add-on and is absolutely clean and safe
 for the end user. The bot automatically collects revenue from business and works seamlessly
@@ -20,7 +19,7 @@ the sexgangstersbizbot.xpi is located.
 
 ![ScreenShot](/screenshots/install2.png)
 
-4. Then you can leave firefox browser open on bussisess url: 
+4. Then you can leave firefox browser opened in bussiness url: 
 http://www.sexgangsters.com/#business
  and go to your work. 
 ![ScreenShot](/screenshots/usage.png)
