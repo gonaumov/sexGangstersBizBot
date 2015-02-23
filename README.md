@@ -8,7 +8,7 @@ about 8 hours.
 
 How to install and use?
 
-1. Download the file sexgangstersbizbot.xpi.
+1. Download the file [sexgangstersbizbot.xpi](https://github.com/gonaumov/sexGangstersBizBot/raw/master/sexgangstersbizbot.xpi).
 
 2. Open File -> Open from your browser and locate place where 
 the sexgangstersbizbot.xpi is located. 
